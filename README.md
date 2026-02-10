@@ -75,7 +75,7 @@ sudo apt install -y python3 gddrescue testdisk
 
 ```bash
 # Clone & navigate
-git clone <repository-url>
+git clone https://github.com/andrew7str/RecoveryData.git
 cd RecoveryData
 
 # Make script executable
