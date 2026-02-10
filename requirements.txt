@@ -1,0 +1,3 @@
+# No additional Python packages required; the script uses the Python standard library.
+# Add optional packages here if you want extra features (example: psutil)
+# psutil
